@@ -98,7 +98,7 @@ def setup():
     
 def draw():
     translate(5, 5)
-    global current, count
+    global  count, current
     background(50)
 
     strokeWeight(3)

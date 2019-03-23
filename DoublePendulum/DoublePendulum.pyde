@@ -3,11 +3,11 @@ from Pendulum import Pendulum
 p1 = Pendulum()
 p2 = Pendulum()
 
-g = 10
+g = 1
 p1.r = 100
-p2.r = 90
-p1.m = 100
-p2.m = 90
+p2.r = 100
+p1.m = 10
+p2.m = 10
 x2, y2 = 0, 0
 
 
